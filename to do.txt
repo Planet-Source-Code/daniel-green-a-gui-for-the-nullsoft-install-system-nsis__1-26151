@@ -1,0 +1,11 @@
+If anyone can do any of the items on this list, feel
+free to email me (dan.green@morphedmedia.com)
+to discuss a partnership of some sort.
+=========================================
+Work that needs to be done:
+* Fix registry bugs
+* allow Slate Blue to parse scripts
+   * damn i'm tired, but this works, at least for
+      settings that Slate Blue supprts, the rest
+      are discarded
+* divide the options into more specific groups
