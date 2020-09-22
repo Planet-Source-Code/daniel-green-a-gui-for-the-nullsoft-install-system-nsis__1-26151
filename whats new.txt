@@ -1,0 +1,81 @@
+Slate Blue 0.0.26:
+* improved script parsing where outfiles are concerned
+* various small code enhancements
+* new colors tab
+* added color preview to all color settings
+* new data tab
+* added shortcut creation
+* updated contributors text
+
+Slate Blue 0.0.25:
+* script parsing more stable
+* major bugfixes
+* next release: watch for tons of new options
+
+Slate Blue 0.0.24:
+* larger gui for the gui
+* although sketchy, slate blue can now read the
+   files to be installed from the script into a listbox
+* fixed a bug where program ran infinitely after close
+
+Slate Blue 0.0.22:
+* fixed bug in script parser where the OutDir was
+   read as being 2 chars longer than it really is
+   (ex. "S\NSIScrap\BigTest" instead of
+   "NSIScrap\BigTest".)
+* Added CRCCheck option
+
+Slate Blue 0.0.21:
+* enabled File>Load menu
+* parsing of scripts begun
+* you can now load a script and the settings
+   Slate Blue supports will be read into the
+   program
+* excellent new options
+
+Slate Blue 0.0.20:
+* disabled File>Load menu until it is coded
+
+Slate Blue 0.0.19:
+* fixed bug where saved files start and end with
+   quotes
+* scripts created by Slate Blue now compile
+   successfully
+* fixed the Help menu and its submenus
+* added at least one new option
+* added the Scheduled Work section
+
+Slate Blue 0.0.18:
+* added new compiler options
+* rearranged many options to new locations
+* commented 95% of the code
+* fixed recurse directory bug (on big folders it
+   would hang)
+* edited the Greetings
+* edited the Contributors
+* changed the About section
+* disabled the Mode menu until it has been coded
+* added a What's New page
+* it's 12:58am - timeforbedb4idieofexhaustion. -
+   tomorrow begins new coding.
+
+Slate Blue 0.0.13:
+* 50% done with a simple script generator
+* couple o' bugfixes
+* added many new options to the scripting "engine"
+* you can now add whole directories to your  script
+   via recursiveness
+
+Slate Blue 0.0.10:
+* ability to generate scripts, with full commenting
+* major bugfixes
+* add files to your script
+
+Slate Blue 0.0.5:
+* change from SE to NSIS GUI
+* ability to load/compile scripts
+
+Slate Blue 0.0.1:
+* original version
+* self-extracting executable working
+* first stable version
